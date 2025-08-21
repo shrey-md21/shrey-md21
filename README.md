@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Shreyas!
 
-<!--
-**shrey-md21/shrey-md21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer 2** with 2+ years of experience building scalable enterprise solutions in **systems engineering, backend development, and mobility device management**. Skilled in **Java, Python, and Rust**, with strong focus on **low-level systems, cloud platforms, and enterprise software**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills  
+
+- **Languages & Scripting**: Java, Python, Rust, Bash, Ansible
+- **Software Development**: DSA, OOP, System Design, Microservices, DevOps, Prototyping, Code Quality, Networking, Databases, Requirements Gathering, Product Management
+- **Databases**: MySql, PostgreSQL, MongoDB, GraphDB, VectorDB, Oracle, Redis
+- **Cloud Platforms**: AWS, GCP, OCI
+- **Machine Learning & AI**: TensorFlow, Scikit-learn, NumPy, Pandas, Matplotlib, Selenium, Spacy, GenAI, LLMs, Prompt Engineering, Vector Embeddings
+- **Operating Systems**: Linux, Windows, Android
+- **Tools & Utilities**: Git, GitLab, Docker, Postman, Firebase, Sentry, Grafana, Swagger UI, Notion, Slack, Markdown, Linear, Vim, CLI, Webmail, Virtualization, VMs, ListMonk
+
+---
+
+## Connect With Me  
+
+- [LinkedIn](https://www.linkedin.com/in/shreyas-mucheli/)  
+- [LeetCode](https://leetcode.com/u/shreyas_21/)  
+- [Email] (m.d.shreyas210@gmail.com)
